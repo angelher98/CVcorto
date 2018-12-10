@@ -1,0 +1,48 @@
+/* Creado por Angel Hernandez Ortiz. Última modificación 10/12/18 */
+body {
+    background-color: #DEE8E8;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 250%;
+    color: #1C1C1C;
+}
+
+h2{
+    background-color: #7E8C8D;
+    color: #536668;
+    font-size: 200%;
+    text-decoration: underline;
+
+}
+
+h3 {
+    background-color: #98aab3;
+    font-style: italic;
+    color: grey;
+}
+
+header {
+    background-color: #A7C2C4;
+
+}
+
+article {
+    background-color: #A7C2C4;
+}
+
+footer {
+    text-align: right;
+    background-color: white;
+    font-style: italic;
+}
+em {
+    color: #5167F6;
+}
+
+strong {
+    color: #3B54FC; 
+}
